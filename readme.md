@@ -1,0 +1,1 @@
+SHOPSTYLE, uma loja virtual online de modas, Site criado com intuito apenas de estudo em breve estarei lançando novas versões com tecnologias novas, No momento basicamente esta sendo usado HTML,CSS e Bootstrap
